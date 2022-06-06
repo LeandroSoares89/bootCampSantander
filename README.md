@@ -2,4 +2,4 @@
 Repositório criado para o desafio do projeto Git/GiHub do bootcamp Santander
 
 ## Links Uteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+:point_up_2: [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
