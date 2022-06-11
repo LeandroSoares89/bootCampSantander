@@ -8,7 +8,7 @@ git init
 ``bash
 git branch "nomeDaBranch"
 ``
-### Atualizar repositório local => puxar alterações do repositório remoto para o repositório local
+### Atualizar repositório remoto => Empurra as alterações do repositório local para o repositório remoto
 ``bash
 git push
 ``
@@ -16,7 +16,7 @@ git push
 ``bash
 git checkout
 ``
-### Enviar/Atualizar repositório remoto enviar => empurra as alterações do repositório local para o repositório remoto
+### Puxar/Atualizar repositório local => Trazer/puxar as alterações do repositório remoto para o repositório local
 ``bash
 git pull
 ``
